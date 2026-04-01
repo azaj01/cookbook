@@ -39,7 +39,7 @@ Python and CLI applications for running LFM models on your laptop or desktop mac
 | Flight Search Assistant | Find and book plane tickets using LFM2.5-1.2B-Thinking with tool calling | [Code](./examples/flight-search-assistant/README.md) |
 | Audio Car Cockpit | Voice-controlled car cockpit demo combining LFM2.5-Audio-1.5B with LFM2-1.2B-Tool | [Code](./examples/audio-car-cockpit/README.md) |
 | LocalCowork | On-device AI agent for file ops, security scanning, OCR, and more, powered by LFM2-24B-A2B | [Code](./examples/localcowork/README.md) |
-| Discord Moderator | Use LFM2.5-1.2b to check messages that exceed a predetermined character limit for suspicious content. | [Code](https://github.com/badluma/liquid-mod) |
+| Home Assistant | Local home assistant with tool calling, benchmarking, and fine-tuning pipeline using LFM2-350M and LFM2.5-1.2B | [Code](./examples/home-assistant/README.md) |
 
 ## 🌐 Browser Apps
 
@@ -137,6 +137,7 @@ Open-source projects built by the community showcasing LFMs with real use cases.
 | LFM-2.5 JP on Web | LFM2.5 1.2B parameter Japanese language model running locally in the browser with WebGPU, using Transformers.js and ONNX Runtime on Web | [Code](https://github.com/sitammeur/lfm2.5-jp-web) |
 | grosme | CLI grocery assistant that reads Apple Notes lists and finds Walmart product matches using LFM-2.5 tool-calling agent via Ollama | [Code](https://github.com/earl562/grosme) |
 | Chat with LEAP SDK | LEAP SDK integration for React Native | [Code](https://github.com/glody007/expo-leap-sdk) |
+| Discord Moderator | Use LFM2.5-1.2B to check messages that exceed a predetermined character limit for suspicious content | [Code](https://github.com/badluma/liquid-mod) |
 
 ## 🕐 Technical Deep Dives
 
